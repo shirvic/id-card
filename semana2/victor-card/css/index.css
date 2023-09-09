@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    background-image: url(https://art.pixilart.com/e7799332aced50f.gif) ;
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Climate Crisis', cursive;
+    font-family: 'Rubik Iso', cursive;
+    color: black;
+}
